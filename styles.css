@@ -1,0 +1,21 @@
+.food-image {
+    height: 200px;
+    width: 300px;
+}
+h1 {
+    color:blueviolet;
+}
+
+.description {
+    border-style: dotted;
+    border-color: blue 2px;
+    margin: 20px;
+}
+
+.ingredients, .steps{
+    border: 2px solid red;
+    color: brown;
+    margin: 20px;
+    display: inline-block;
+}
+
